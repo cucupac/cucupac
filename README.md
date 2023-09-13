@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 
 - 🦾 Lead Software Architect.
 - 🔭 Currently building in Defi.
