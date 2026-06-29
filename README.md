@@ -13,5 +13,3 @@ Always open to building with people who think deeply about engineering, math, or
 ## GitHub activity
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cucupac&theme=react-dark&hide_border=true&area=true)
-
-![GitHub streak](https://streak-stats.demolab.com?user=cucupac&theme=dark&hide_border=true)
