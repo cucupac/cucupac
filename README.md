@@ -1,4 +1,4 @@
-### Overview
+## Overview
 
 I build high-performance optimization systems in DeFi.
 
@@ -9,3 +9,9 @@ Previously, as Lead Blockchain Engineer at Ax Research, I launched a cross-chain
 I’m currently pursuing an M.S. in Computer Science (ML specialization) at Georgia Tech and hold a Mechanical Engineering degree from Purdue.
 
 Always open to building with people who think deeply about engineering, math, or hard problems.
+
+## GitHub activity
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cucupac&theme=react-dark&hide_border=true&area=true)
+
+![GitHub streak](https://streak-stats.demolab.com?user=cucupac&theme=dark&hide_border=true)
