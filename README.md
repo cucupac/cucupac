@@ -10,6 +10,6 @@ I’m currently pursuing an M.S. in Computer Science (ML specialization) at Geor
 
 Always open to building with people who think deeply about engineering, math, or hard problems.
 
-## GitHub activity
+## Activity
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cucupac&theme=react-dark&hide_border=true&area=true)
